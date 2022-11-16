@@ -11,8 +11,12 @@
             "id": "44f53a274bad9aba",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "First addition to labdocs project.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "First addition to labdocs project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "First addition to labdocs project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "First addition to labdocs project.md"
+              }
             }
           }
         ]
@@ -128,6 +136,6 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "44f53a274bad9aba",
+  "active": "6c1cf445f04818c3",
   "lastOpenFiles": []
 }
