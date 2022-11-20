@@ -1,5 +1,5 @@
 ## Hardware
-![[rack3.jpg]]
+[[rack3.jpg | rack diagram]]
 
 ## Software
  - vSphere 7 Virtual Center ^afcf71
