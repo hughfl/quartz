@@ -1,14 +1,4 @@
----
-[What is this most related to?]  
-tags:: #status/note
-dates:: 2022-11-20  
-people::  
-relevant::  
-TRU?:: #TRU/todo
-
----
-
-# 
+# {{title}}
 
 title: "Markdown Syntax"
 ---
