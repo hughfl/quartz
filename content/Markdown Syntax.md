@@ -1,5 +1,3 @@
-# {{title}}
-
 title: "Markdown Syntax"
 ---
 Headers (#)
@@ -11,19 +9,21 @@ Headers (#)
 ###### Header 6
 
 Italic
-_italics_ (underscore)
-*italic* (asterisk)
++ _italics_ (underscore)
++ *italic* (asterisk)
 
-__bold__ (underscore + underscore)
-**bold** (asterisk + asterisk)
+Bold
++ __bold__ (underscore + underscore)
++ **bold** (asterisk + asterisk)
 
-Strikethrough ("~" + "~" text "~" + "~" )
-~~strikethrough~~
+Strikethrough
++ Strikethrough ("~" + "~" text "~" + "~" )
+	~~strikethrough~~
 
-==highlight==
+Highlight
++ ==highlight==
 
-Lists
-"-"
+Lists "- , +, or no."
 - number 1 (-)
 - number 2
 
@@ -35,42 +35,40 @@ Lists
 
 
 Checklist
-Cntrl + Enter
-- [x] 
++ Cntrl + Enter
++ - [x] 
 
 Links  ([ + ])
-	Link ([ + ] | alias)
-[[Create Link | Link]]
++ Link ([ + ] | alias)
++ [[Create Link | Link]]
 
 Link Header (Double Bracket | Header)
-[[Lab Rack#Software]]
++ [[Lab Rack#Software]]
 
 Link Header Alias (Double Bracket | Alias)
-[[Lab Rack#Software | Lab Software]]
++ [[Lab Rack#Software | Lab Software]]
 
 Blocks in Same page (Double Bracket ^ | Alias)
-[[Lab Rack#^54119c | DB Version]]
++ [[Lab Rack#^54119c | DB Version]]
 
 External Links
-www.obsidian.md (url on page)
++ www.obsidian.md (url on page)
 or
 Single Bracket - Link in parenthesis
-[obsidian](https://obsidian.md) 
++ [obsidian](https://obsidian.md) 
 
 Embedding Links
-"!" before link "![[]]"
++ "!" before link "![[]]"
 
 Footnote Bracket - caret number 
++ This is a footnote. [^1]
 
-This is a footnote. [^1]
-
-[^1]:Definition of the footnote
-
-or
-caret brackets - Link
-This is a footnote^[Definition of a footnote]
-
-Check these lists^[[[Lab Rack#Software | Software List]]]
++ [^1]:Definition of the footnote
++ or
++ caret brackets - Link
++ This is a footnote^[Definition of a footnote]
+Text caret "|" list
++ Check these lists^[[[Lab Rack#Software | Software List]]]
 
 
 Tables (Header pipe Header 2)
@@ -86,6 +84,10 @@ Quotes
 > A random quote
 >> Author of random quote
 
+Code Snippet
+"----" language extension
++ code snippet
+"----"
 
 ````py
 print("Hellow World")
