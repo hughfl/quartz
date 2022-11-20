@@ -85,9 +85,9 @@ Quotes
 >> Author of random quote
 
 Code Snippet
-"----" language extension
++ "----" language extension
 + code snippet
-"----"
++ "----"
 
 ````py
 print("Hellow World")
