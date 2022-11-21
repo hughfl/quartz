@@ -1,5 +1,7 @@
 ---
 cssclass: dashboard
+banner: "![[justin-lim-tloFnD-7EpI-unsplash.jpg]]"
+banner_y: 0.1625
 ---
 
 # Family
