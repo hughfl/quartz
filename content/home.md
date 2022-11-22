@@ -1,40 +1,54 @@
 ---
 cssclass: dashboard
 banner: "![[justin-lim-tloFnD-7EpI-unsplash.jpg]]"
-banner_y: 0.1625
+banner_y: 0.205
 ---
 
-# Family
+# General Notes
 
--   🏈 Sunday Game
-    -   [[Spicy-Sweet Buffalo Popcorn]]
-    -   [[Guest list]]
-    -   [Jalapeno Popper Wantons](https://www.allrecipes.com/recipe/166991/jalapeno-popper-wontons/)
--   👨‍👩‍👦 Objectives
-    -   [[Family Recipes]]
-    -   [[Family Calendar]]
-    -   [[Education Plan]]
-    -   [[Yearly Budget]]
--   🌅 Exotic Vacations
-    -   [[Peru]]
-    -   [[Austria]]
-    -   [[Texas]]
+-   🪧 Yard Update
+    -   [[Plant Grass]]
+    -   [[Landscape - Dirt]]
+    -   [[Find Turf for backyard]]
+-   🏡 Interior Update
+    -   [[Basement Bedroom]]
+	    - [[Rehang Closet Hardware]]
+	    - [[Treat with Kilz and Paint]]
+    -   [[Basement Bathroom]]
+	    - [[Vanity]]
+	    - [[Paint]]
+    -   [[Basement Kitchen]]
+	    - [[Replace cabinet hardware]]
+    -   [[Electrical Box]]
+    -   [[Carpet Cleaning]]
+-   ⚽ Soccer Training Options
+    -   [[Newcastle]]
+    -   [[Ajax]]
+    -   [[MLS Academy]]
+    -   [[ECNL Academy]]
 -   🎥 Movies to Watch
-    -   [Sleepless in Seattle](https://www.imdb.com/title/tt0108160/)
-    -   [Joe vs the Volcano](https://www.imdb.com/title/tt0099892/)
+    -   [Wakanda Forever](https://www.imdb.com/title/tt9114286/?ref_=fn_al_tt_1))
+    -   [The Woman King](https://www.imdb.com/title/tt8093700/)
 
-# [](https://github.com/TfTHacker/DashboardPlusPlus/blob/master/Dashboard%2B%2B.md#personal-projects)Personal Projects
+# [](https://github.com/TfTHacker/DashboardPlusPlus/blob/master/Dashboard%2B%2B.md#personal-projects)Lab Build Projects
 
--   🏡 Remodeling Projects
-    -   [[Bathroom Remodel]]
-    -   [[Paint entryway]]
-    -   [[Research building Garage]]
--   ✍️ Writing Projects
-    -   [[5 ways to love PKM more]]
+-   🖧 Lab Projects
+    -   [[Unifi Networking]]
+    -   [[vSphere 8 ]]
+    -   [[NSX-T 3.2/4]]
+    -   [[NSX Advanced Load Balancer 21.1.4]]
+    -   [[Tanzu]]
+    -   [[AKO]]
+    -   [[Tanzu Application Platform]]
+-   ✍️ Presentation Projects
+    -   [[Lab Build - Youtube]]
     -   Read: [Obisidian core principles](https://tfthacker.medium.com/obsidian-understanding-its-core-design-principles-7f3fafbd6e36)
 -   📚 Learning
-    -   [[Early American History]]
-    -   [[Spanish - Entry Level]]
+    -   [[Programming]]
+	    - [[C-sharp]]
+    -   [[Cloud Infrastructure]]
+	    - [[Google Cloud Platform - GCP]]
+	    - [[Azure]]
 
 # [](https://github.com/TfTHacker/DashboardPlusPlus/blob/master/Dashboard%2B%2B.md#work)Work
 
@@ -44,14 +58,8 @@ banner_y: 0.1625
     -   [[IT Cybersecurity training]]
 -   💰 Budget review
     -   [[Q1 2022]]
-    -   [[Q2 2022]]
-    -   [[Q3 2022]]
-    -   [[Q4 2022]]
 -   👥 Personnel Review
     -   [[Sally Smith]]
-    -   [[Bill Hansen]]
-    -   [[Brad Jefferson]]
-    -   [[Olga Olson]]
 
 # [](https://github.com/TfTHacker/DashboardPlusPlus/blob/master/Dashboard%2B%2B.md#vault-info)Vault Info
 
