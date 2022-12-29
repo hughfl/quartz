@@ -4,7 +4,7 @@ banner: "![[justin-lim-tloFnD-7EpI-unsplash.jpg]]"
 banner_y: 0.205
 ---
 
-# General Notes
+# General Projects
 
 -   🪧 Yard Update
     -   [[Plant Grass]]
@@ -34,6 +34,7 @@ banner_y: 0.205
 
 -   🖧 Lab Projects
     -   [[Unifi Networking]]
+	    -   [Unifi to GCP VPN](https://www.doit.com/ubiquiti-and-gcp-site-to-site-vpn-the-how-to-guide/)
     -   [[vSphere 8 ]]
     -   [[NSX-T 3.2/4]]
     -   [[NSX Advanced Load Balancer 21.1.4]]
